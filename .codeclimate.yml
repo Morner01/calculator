@@ -1,0 +1,13 @@
+version: "2"
+plugins:
+  csslint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - css
+      - html
+      - js
+  fixme:
+    enabled: true
