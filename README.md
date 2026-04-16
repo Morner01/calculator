@@ -17,3 +17,6 @@
 ## Деплой
 
 Сайт доступен по ссылке: https://morner01.github.io/calculator/
+
+Qlty(Codeclimate)
+[![Maintainability](https://qlty.sh/gh/Morner01/projects/calculator/maintainability.svg)](https://qlty.sh/gh/Morner01/projects/calculator)
